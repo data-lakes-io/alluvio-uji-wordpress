@@ -10,6 +10,9 @@ You will receive the Tag Prefix from the Riverbed SaaS Admin Team for your UJI t
 ### User Experience Snippet
 The User Experience Snippet is part of the Configuration from your Aternity APM settings. Please open your APM tenant and open the Define Configutation Page to copy the Snippet information. 
 
+## Contribute
+Would you like to contribute? Send us a message via our [contact form](https://www.data-lakes.io/contact)
+
 ## More Information
 Alluvio User Journey Intelligence provides contextualized visibility and actionable insights into user journeys across complex web environments, 
 enabling organizations to improve satisfaction and drive revenue. Alluvio full spectrum Digital Experience Management covers customers and 
